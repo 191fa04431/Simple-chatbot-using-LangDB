@@ -1,11 +1,11 @@
 # DSA Chatbot
 
-A Python-based chatbot that helps users learn Data Structures and Algorithms (DSA) concepts through interactive conversations. The chatbot uses the OpenAI API through [LangDB.ai](https://langdb.ai/) to provide detailed explanations and answers to DSA-related questions.
+A Python-based chatbot that helps users learn Data Science concepts and Algorithms through interactive conversations. The chatbot uses the OpenAI API through [LangDB.ai](https://langdb.ai/) to provide detailed explanations and answers to DSA-related questions.
 
 ## Features
 
 - Interactive command-line interface
-- Specialized in DSA education
+- Specialized in Datascience education
 - Clear and simple explanations with analogies
 - Basic conversation handling (greetings, farewells)
 - Error handling for API calls
@@ -24,13 +24,13 @@ Before running the chatbot, make sure you have:
 1. Clone this repository or download the source code:
 
 ```bash
-git clone https://github.com/maggi1129/AIChatbotDemo.git
+git clone https://github.com/191fa04431/AIChatbotDemo.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd dsa-chatbot
+cd chatbot
 ```
 
 3. Install the required package:
@@ -48,15 +48,15 @@ python chatbot.py
 ```
 
 2. Start interacting with the chatbot:
-   - Type your DSA-related questions
+   - Type your Data science-related questions
    - Use 'hello' for greetings
    - Type 'bye' to exit the chat
 
 Example questions you can ask:
-- "Explain DP to a 5 year old"
-- "What is a binary search tree?"
-- "How does quicksort work?"
-- "Explain time complexity"
+- "Explain Datascience and it's purpose?"
+- "What are the skills to be learnt to become DS?"
+- "How does an ML algorithm work in data science?"
+- "Explain key insights of DS"
 
 ## Configuration
 
@@ -86,7 +86,7 @@ The chatbot uses LangDB API with the following configuration:
 ## Customization
 
 You can customize the chatbot by:
-1. Modifying the `basic_responses` dictionary in the `DSAChatbot` class
+1. Modifying the `basic_responses` dictionary in the `DSChatbot` class
 2. Adjusting the system prompt in the `get_response` method
 3. Changing the model parameters (temperature, max_tokens, etc.)
 4. Adding new features or response types
