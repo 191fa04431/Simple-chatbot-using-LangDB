@@ -24,7 +24,7 @@ Before running the chatbot, make sure you have:
 1. Clone this repository or download the source code:
 
 ```bash
-git clone https://github.com/191fa04431/AIChatbotDemo.git
+https://github.com/191fa04431/Simple-chatbot-using-LangDB.git
 ```
 
 2. Navigate to the project directory:
