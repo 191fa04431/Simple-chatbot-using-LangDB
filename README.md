@@ -1,4 +1,4 @@
-# DSA Chatbot
+# Data science Chatbot
 
 A Python-based chatbot that helps users learn Data Science concepts and Algorithms through interactive conversations. The chatbot uses the OpenAI API through [LangDB.ai](https://langdb.ai/) to provide detailed explanations and answers to DSA-related questions.
 
