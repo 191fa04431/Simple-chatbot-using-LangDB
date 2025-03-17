@@ -5,7 +5,7 @@ A Python-based chatbot that helps users learn Data Science concepts and Algorith
 ## Features
 
 - Interactive command-line interface
-- Specialized in Datascience education
+- Specialized in data science education
 - Clear and simple explanations with analogies
 - Basic conversation handling (greetings, farewells)
 - Error handling for API calls
